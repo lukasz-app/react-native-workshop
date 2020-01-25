@@ -48,6 +48,7 @@ const Navigator = createStackNavigator(
     },
     {
         initialRouteName: 'Home',
+        headerMode: 'float',
     }
 );
 const AppContainer = createAppContainer(Navigator); // Create container using our navigator stack

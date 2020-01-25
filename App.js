@@ -13,11 +13,11 @@ import {
   InputExample
 } from "./screens/2 - Input and storage"
 import {
-  NavigationExample
-} from './screens/3 - BasicNavigation'
-import {
   MapViewExample, MarkersExample
-} from "./screens/4 - Location"
+} from './screens/3 - Location'
+import {
+  NavigationExample
+} from "./screens/4 - BasicNavigation"
 
 export default function App() {
   return (
@@ -26,8 +26,10 @@ export default function App() {
     // </View>
     // <MarkersExample
     // <NavigationExample />
-    <ImagesAndIconsExample />
-
+    // <ImagesAndIconsExample />
+    // <MapViewExample />
+    // <MarkersExample />
+    <NavigationExample />
   );
 }
 

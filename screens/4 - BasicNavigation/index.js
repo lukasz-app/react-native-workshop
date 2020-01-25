@@ -1,1 +1,1 @@
-export { default as NavigationExample } from "./Navigation"
+export { default as NavigationExample } from './Navigation';

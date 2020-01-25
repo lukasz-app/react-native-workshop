@@ -25,7 +25,6 @@ export default class App extends Component {
         return (
             <View style={styles.container}>
                 <MapView
-                    ref={this._setMap}
                     style={styles.map}
                     showsUserLocation={true}
                     maxZoomLevel={19}
