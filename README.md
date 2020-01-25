@@ -1,8 +1,10 @@
 # DEVMEETING REACT-NATIVE WORKSHOP
 ### Warszawa 25.01.2020
-
+```
 wifi: 360CodeLab - Workshop
+
 pass: "wespeakinCODE!"
+```
 
 ## Agenda
 
