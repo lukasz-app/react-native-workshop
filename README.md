@@ -23,6 +23,6 @@ pass: "wespeakinCODE!"
 
     - Basic Componets ( View, Text, Style, ScrollView, FlatList)
     - Input and Storage (Input, DeviceStorage, Touchable, Images - Icons)
-    - BasicNavigation ( React Navigation Example)
     - Location ( MapView, Marker )
+    - BasicNavigation ( React Navigation Example)
 

@@ -1,4 +1,4 @@
-# Cześć 3 - Basic Navigation
+# Cześć 4 - Basic Navigation
 
 Trzeba zainstalować react navigation :
 ```
